@@ -1,0 +1,49 @@
+C:\Users\zzksk\OneDrive\Рабочий стол\PostgreSql\Курсовая\MoviePoster\MoviePoster\bin\Debug\MoviePoster.exe.config
+C:\Users\zzksk\OneDrive\Рабочий стол\PostgreSql\Курсовая\MoviePoster\MoviePoster\bin\Debug\MoviePoster.exe
+C:\Users\zzksk\OneDrive\Рабочий стол\PostgreSql\Курсовая\MoviePoster\MoviePoster\bin\Debug\MoviePoster.pdb
+C:\Users\zzksk\OneDrive\Рабочий стол\PostgreSql\Курсовая\MoviePoster\MoviePoster\obj\Debug\MoviePoster.csproj.AssemblyReference.cache
+C:\Users\zzksk\OneDrive\Рабочий стол\PostgreSql\Курсовая\MoviePoster\MoviePoster\obj\Debug\MoviePoster.Properties.Resources.resources
+C:\Users\zzksk\OneDrive\Рабочий стол\PostgreSql\Курсовая\MoviePoster\MoviePoster\obj\Debug\MoviePoster.csproj.GenerateResource.cache
+C:\Users\zzksk\OneDrive\Рабочий стол\PostgreSql\Курсовая\MoviePoster\MoviePoster\obj\Debug\MoviePoster.csproj.CoreCompileInputs.cache
+C:\Users\zzksk\OneDrive\Рабочий стол\PostgreSql\Курсовая\MoviePoster\MoviePoster\obj\Debug\MoviePoster.exe
+C:\Users\zzksk\OneDrive\Рабочий стол\PostgreSql\Курсовая\MoviePoster\MoviePoster\obj\Debug\MoviePoster.pdb
+C:\Users\zzksk\OneDrive\Рабочий стол\PostgreSql\Курсовая\MoviePoster\MoviePoster\obj\Debug\MoviePoster.SearchForm.resources
+C:\Users\zzksk\OneDrive\Рабочий стол\PostgreSql\Курсовая\MoviePoster\MoviePoster\obj\Debug\MoviePoster.MainForm.resources
+C:\Users\zzksk\OneDrive\Рабочий стол\PostgreSql\Курсовая\MoviePoster\MoviePoster\obj\Debug\MoviePoster.CartoonsForm.resources
+C:\Users\zzksk\OneDrive\Рабочий стол\PostgreSql\Курсовая\MoviePoster\MoviePoster\obj\Debug\MoviePoster.CinemasForm.resources
+C:\Users\zzksk\OneDrive\Рабочий стол\PostgreSql\Курсовая\MoviePoster\MoviePoster\obj\Debug\MoviePoster.MoviesForm.resources
+C:\Users\zzksk\OneDrive\Рабочий стол\PostgreSql\Курсовая\MoviePoster\MoviePoster\obj\Debug\MoviePoster.PrivateSessionsForm.resources
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\bin\Debug\MoviePoster.exe.config
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\bin\Debug\MoviePoster.exe
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\bin\Debug\MoviePoster.pdb
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\obj\Debug\MoviePoster.csproj.AssemblyReference.cache
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\obj\Debug\MoviePoster.CartoonsForm.resources
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\obj\Debug\MoviePoster.CinemasForm.resources
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\obj\Debug\MoviePoster.MainForm.resources
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\obj\Debug\MoviePoster.MoviesForm.resources
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\obj\Debug\MoviePoster.PrivateSessionsForm.resources
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\obj\Debug\MoviePoster.Properties.Resources.resources
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\obj\Debug\MoviePoster.SearchForm.resources
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\obj\Debug\MoviePoster.csproj.GenerateResource.cache
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\obj\Debug\MoviePoster.csproj.CoreCompileInputs.cache
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\obj\Debug\MoviePoster.exe
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\obj\Debug\MoviePoster.pdb
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\bin\Debug\Cinemas.mdf
+C:\Users\bobri\OneDrive\Desktop\учёба\MoviePoster\MoviePoster\bin\Debug\Cinemas_log.ldf
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\bin\Debug\Cinemas.mdf
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\bin\Debug\Cinemas_log.ldf
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\bin\Debug\MoviePoster.exe.config
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\bin\Debug\MoviePoster.exe
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\bin\Debug\MoviePoster.pdb
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\obj\Debug\MoviePoster.csproj.AssemblyReference.cache
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\obj\Debug\MoviePoster.CartoonsForm.resources
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\obj\Debug\MoviePoster.CinemasForm.resources
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\obj\Debug\MoviePoster.MainForm.resources
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\obj\Debug\MoviePoster.MoviesForm.resources
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\obj\Debug\MoviePoster.Properties.Resources.resources
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\obj\Debug\MoviePoster.SearchForm.resources
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\obj\Debug\MoviePoster.csproj.GenerateResource.cache
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\obj\Debug\MoviePoster.csproj.CoreCompileInputs.cache
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\obj\Debug\MoviePoster.exe
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\obj\Debug\MoviePoster.pdb
+C:\Users\bobri\OneDrive\Desktop\study\MoviePoster\MoviePoster\obj\Debug\MoviePoster.SessionsForm.resources
